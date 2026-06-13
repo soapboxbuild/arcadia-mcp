@@ -1,8 +1,14 @@
 {
   "name": "arcadia-arc",
   "version": "0.1.0",
-  "description": "Arcadia Arc — connect 7,000+ utilities, retrieve bills and 15-minute interval data, calculate carbon emissions with EPA eGRID factors.",
-  "author": { "name": "Arcadia", "url": "https://www.arcadia.com" },
+  "description": "Arcadia Arc \u2014 connect 7,000+ utilities, retrieve bills and 15-minute interval data, calculate carbon emissions with EPA eGRID factors.",
+  "author": {
+    "name": "Arcadia",
+    "url": "https://www.arcadia.com"
+  },
   "homepage": "https://github.com/soapboxbuild/arcadia-mcp",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "skills": [
+    "skills"
+  ]
 }
