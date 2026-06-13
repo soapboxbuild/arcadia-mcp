@@ -1,0 +1,10 @@
+{
+  "name": "arcadia-plugins",
+  "owner": { "name": "Soapbox", "url": "https://soapbox.build" },
+  "plugins": [{
+    "name": "arcadia-arc",
+    "source": { "source": "github", "repo": "soapboxbuild/arcadia-mcp" },
+    "description": "Connect 7,000+ utilities, retrieve bills and 15-minute interval data, calculate carbon emissions.",
+    "version": "0.1.0"
+  }]
+}
